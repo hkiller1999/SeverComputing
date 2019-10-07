@@ -1,0 +1,4 @@
+This is the SeverComputing homework5.
+This is a input test file.
+hello,golang!
+I wish I can finished it.
